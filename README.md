@@ -6,6 +6,6 @@ You'll see that the components are designed quite simply without too many detail
 
 So far, the following components are included:
 
-- SDSZ-12VDC-SL relay
+- SDSZ-12VDC-SL relay (Note: this component has apparently a wrong footprint on the manufacturer's data sheet, please double check your relay before manufacturing the PCB).
 - ACP-SPAIN-22k potentiometer
 - 2 pin connector outlet for connecting load/source (there's no part number available for this).
